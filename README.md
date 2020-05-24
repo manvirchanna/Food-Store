@@ -1,2 +1,2 @@
 # Food-Store
-It is a simple core Java used project using Jframes.
+It is a simple core Java based project using Jframes.
